@@ -1,8 +1,8 @@
-[E.BIG.APPLE](http://212.47.238.202/minitel/minitel-loader.html?url=https://raw.githubusercontent.com/xavrr/test/master//PagesVideotex3/E.BIG.APPLE)<BR>
-[E.BIG.DEBUT](http://212.47.238.202/minitel/minitel-loader.html?url=https://raw.githubusercontent.com/xavrr/test/master//PagesVideotex3/E.BIG.DEBUT)<BR>
-[E.BIG.SCREEN2](http://212.47.238.202/minitel/minitel-loader.html?url=https://raw.githubusercontent.com/xavrr/test/master//PagesVideotex3/E.BIG.SCREEN2)<BR>
-[E.BIG.SCREEN_](http://212.47.238.202/minitel/minitel-loader.html?url=https://raw.githubusercontent.com/xavrr/test/master//PagesVideotex3/E.BIG.SCREEN_)<BR>
-[E.GILBERT1](http://212.47.238.202/minitel/minitel-loader.html?url=https://raw.githubusercontent.com/xavrr/test/master//PagesVideotex3/E.GILBERT1)<BR>
-[E.GILBERT2](http://212.47.238.202/minitel/minitel-loader.html?url=https://raw.githubusercontent.com/xavrr/test/master//PagesVideotex3/E.GILBERT2)<BR>
-[E.GILBERT3](http://212.47.238.202/minitel/minitel-loader.html?url=https://raw.githubusercontent.com/xavrr/test/master//PagesVideotex3/E.GILBERT3)<BR>
-[E.SPRINGTIME](http://212.47.238.202/minitel/minitel-loader.html?url=https://raw.githubusercontent.com/xavrr/test/master//PagesVideotex3/E.SPRINGTIME)<BR>
+[<img src="https://raw.githubusercontent.com/xavrr/test/master//PagesVideotex3/E.BIG.APPLE" width="300">](http://212.47.238.202/minitel/minitel-loader.html?url=https://raw.githubusercontent.com/xavrr/test/master//PagesVideotex3/E.BIG.APPLE.png)<BR>
+[<img src="https://raw.githubusercontent.com/xavrr/test/master//PagesVideotex3/E.BIG.DEBUT" width="300">](http://212.47.238.202/minitel/minitel-loader.html?url=https://raw.githubusercontent.com/xavrr/test/master//PagesVideotex3/E.BIG.DEBUT.png)<BR>
+[<img src="https://raw.githubusercontent.com/xavrr/test/master//PagesVideotex3/E.BIG.SCREEN2" width="300">](http://212.47.238.202/minitel/minitel-loader.html?url=https://raw.githubusercontent.com/xavrr/test/master//PagesVideotex3/E.BIG.SCREEN2.png)<BR>
+[<img src="https://raw.githubusercontent.com/xavrr/test/master//PagesVideotex3/E.BIG.SCREEN_" width="300">](http://212.47.238.202/minitel/minitel-loader.html?url=https://raw.githubusercontent.com/xavrr/test/master//PagesVideotex3/E.BIG.SCREEN_.png)<BR>
+[<img src="https://raw.githubusercontent.com/xavrr/test/master//PagesVideotex3/E.GILBERT1" width="300">](http://212.47.238.202/minitel/minitel-loader.html?url=https://raw.githubusercontent.com/xavrr/test/master//PagesVideotex3/E.GILBERT1.png)<BR>
+[<img src="https://raw.githubusercontent.com/xavrr/test/master//PagesVideotex3/E.GILBERT2" width="300">](http://212.47.238.202/minitel/minitel-loader.html?url=https://raw.githubusercontent.com/xavrr/test/master//PagesVideotex3/E.GILBERT2.png)<BR>
+[<img src="https://raw.githubusercontent.com/xavrr/test/master//PagesVideotex3/E.GILBERT3" width="300">](http://212.47.238.202/minitel/minitel-loader.html?url=https://raw.githubusercontent.com/xavrr/test/master//PagesVideotex3/E.GILBERT3.png)<BR>
+[<img src="https://raw.githubusercontent.com/xavrr/test/master//PagesVideotex3/E.SPRINGTIME" width="300">](http://212.47.238.202/minitel/minitel-loader.html?url=https://raw.githubusercontent.com/xavrr/test/master//PagesVideotex3/E.SPRINGTIME.png)<BR>

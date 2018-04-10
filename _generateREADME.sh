@@ -19,7 +19,8 @@ if [ -f README.md ]; then
 fi
 
 mycmd="echo [{}]($loaderUrl"
+imgtag="<img src=\"$repoUrl$rel/{}\" width=\"300\">"
+echo $imgtag
 
-find . -name 'E.*' -maxdepth 1 | sed 's|^./||' | xargs -I{} echo [{}]\($loaderUrl$repoUrl$rel/{}\)\<BR\> >> README.md 
-
-find . -name 'E.*' -maxdepth 1 | sed 's|^./||' |  xargs -I{} node $1/_minitel_screenshot.js $repoUrl$rel/{} $PWD/.thumbnails/{}.png
+find . -name 'E.*' -maxdepth 1 | sed 's|^./||' | xargs -I{} echo [$imgtag]\($loaderUrl$repoUrl$rel/{}.png\)\<BR\> >> README.md 
+#find . -name 'E.*' -maxdepth 1 | sed 's|^./||' |  xargs -I{} node $1/_minitel_screenshot.js $repoUrl$rel/{} $PWD/.thumbnails/{}.png
