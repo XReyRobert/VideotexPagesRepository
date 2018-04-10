@@ -1,2 +1,0 @@
-{ "method": "Page.navigate", "id": 1, "params": { "url": "http://www.google.com"}}
-
