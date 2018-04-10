@@ -12,6 +12,6 @@ if [ -f README.md ]; then
 fi
 
 mycmd="echo [{}]($loaderUrl"
-imgtag="<img src=\"$repoUrl$rel/thumbnails/{}.png\" width=\"300\">"
+imgtag="<img src=\"$repoUrl$rel/.thumbnails/{}.png\" width=\"300\">"
 echo -n .
 find . -name 'E.*' -maxdepth 1 | sed 's|^./||' | xargs -I{} echo [$imgtag]\($loaderUrl$repoUrl$rel/{}\)\<BR\> >> README.md 
