@@ -1,6 +1,4 @@
 
-![BIGAMMPLEALTTEXT](https://raw.githubusercontent.com/xavrr/test/master//PagesVideotex2/.thumbnails/E.BIG.APPLE.png )
-
 <img src="https://raw.githubusercontent.com/xavrr/test/master//PagesVideotex2/.thumbnails/E.BIG.APPLE.png" width="300">
 
 [E.BIG.APPLE](http://212.47.238.202/minitel/minitel-loader.html?url=https://raw.githubusercontent.com/xavrr/test/master//PagesVideotex2/E.BIG.APPLE)<BR>
