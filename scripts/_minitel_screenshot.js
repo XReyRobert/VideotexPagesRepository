@@ -14,6 +14,7 @@ url = process.argv[2];
 filename = process.argv[3];
 
 console.log("Generating thumbnail "+filename);
+console.log("Using url "+url);
 
 (async () => {
   const browser = await puppeteer.launch();
