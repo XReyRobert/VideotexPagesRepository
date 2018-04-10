@@ -6,11 +6,6 @@ rel=${PWD//$1/}
 repoUrl=https://raw.githubusercontent.com/xavrr/test/master/
 directory=${PWD##*/}
 
-if ls E.* 1> /dev/null 2>&1; then
-    rm -fr .thumbnails >> /dev/null
-    mkdir .thumbnails
-fi
-
 
 loaderUrl="http://212.47.238.202/minitel/minitel-loader.html?url="
 if [ -f README.md ]; then
