@@ -3,7 +3,7 @@
 
 rel=${PWD//$1/}
 
-repoUr=https://raw.githubusercontent.com/xavrr/test/master/
+repoUrl=https://raw.githubusercontent.com/xavrr/test/master/
 directory=${PWD##*/}
 
 
