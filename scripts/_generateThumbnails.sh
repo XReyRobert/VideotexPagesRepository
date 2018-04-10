@@ -2,8 +2,7 @@
 #getting the rootpath as an argument for proper url generation 
 
 rel=${PWD//$1/}
-
-repoUrl=https://raw.githubusercontent.com/xavrr/test/master/
+repoUrl=https://raw.githubusercontent.com/XReyRobert/VideotexPagesRepository/master/
 directory=${PWD##*/}
 
 if ls E.* 1> /dev/null 2>&1; then
