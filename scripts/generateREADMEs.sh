@@ -7,3 +7,7 @@ find . -type d -mindepth 1 | while read d; do
 done
 echo
 
+git commit -m "autogenerate all README.md for videotex pages directories" */README.md
+git push
+
+
