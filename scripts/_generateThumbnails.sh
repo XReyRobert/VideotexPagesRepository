@@ -1,3 +1,5 @@
+#/bin/bash 
+
 #generate README.md for all E.* files in CURRRENT directory (invoked by directory parsing script)
 #getting the rootpath as an argument for proper url generation 
 

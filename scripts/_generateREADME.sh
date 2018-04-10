@@ -1,3 +1,4 @@
+#!/bin/bash
 #generate README.md for all E.* files in CURRRENT directory (invoked by directory parsing script)
 #getting the rootpath as an argument for proper url generation 
 
@@ -12,10 +13,19 @@ fi
 
 # if any E. file is present in directory then generate the README.md
 
+urlpath=$repoUrl$rel/.thumbnails/{}.png
+
 if ls E.* 1> /dev/null 2>&1; then
 mycmd="echo [{}]($loaderUrl"
 imgtag="<img src=\"$repoUrl$rel/.thumbnails/{}.png\" width=\"300\">"
-echo -n .
-find . -name 'E.*' -maxdepth 1 | sed 's|^./||' | xargs -I{} echo [$imgtag]\($loaderUrl$repoUrl$rel/{}\) >> README.md
+echo -n
+
+#replace all spaces in filenames by _  to avoid issue in generated htm 
+
+if ls E.*\ * 1> /dev/null 2>&1; then
+   for f in E.*\ *; do mv "$f" "${f// /_}"; done
+fi
+
+find . -name 'E.*' -maxdepth 1 | sed 's|^./||' | xargs -I{} echo [$imgtag]\($loaderUrl$repoUrl$rel/{}\) | cat - >> README.md
 fi
 

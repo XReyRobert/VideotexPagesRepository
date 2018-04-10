@@ -1,1 +1,0 @@
-xargs -I{} echo [<img src="https://raw.githubusercontent.com/XReyRobert/VideotexPagesRepository/master//vrac/.thumbnails/{}.png" width="300">](http://212.47.238.202/minitel/minitel-loader.html?url=https://raw.githubusercontent.com/XReyRobert/VideotexPagesRepository/master//vrac/{})
