@@ -6,3 +6,5 @@
 [E.GILBERT2](http://212.47.238.202/minitel/minitel-loader.html?url=https://raw.githubusercontent.com/xavrr/test/master/PagesVideotex/E.GILBERT2)
 
 [E.GILBERT3](http://212.47.238.202/minitel/minitel-loader.html?url=https://raw.githubusercontent.com/xavrr/test/master/PagesVideotex/E.GILBERT3)
+
+[E.SPRINGTIME](http://212.47.238.202/minitel/minitel-loader.html?url=https://raw.githubusercontent.com/xavrr/test/master/PagesVideotex/E.SPRINGTIME)
