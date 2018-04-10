@@ -15,4 +15,4 @@ loaderUrl="http://212.47.238.202/minitel/minitel-loader.html?url="
 mycmd="echo [{}]($loaderUrl"
 imgtag="<img src=\"$repoUrl$rel/thumbnails/{}.png\" width=\"300\">"
 
-find . -name 'E.*' -maxdepth 1 | sed 's|^./||' | xargs -I{} -P 10 node $1/scripts/_minitel_screenshot.js $repoUrl$rel/{} $PWD/.thumbnails/{}.png
+find . -name 'E.*' -maxdepth 1 | sed 's|^./||' | xargs -I{} -P 20 node $1/scripts/_minitel_screenshot.js $repoUrl$rel/{} $PWD/.thumbnails/{}.png
