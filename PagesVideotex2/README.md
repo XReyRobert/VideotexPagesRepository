@@ -1,5 +1,5 @@
 
-![BIGAMMPLEALTTEXT](https://raw.githubusercontent.com/xavrr/test/master//PagesVideotex2/.thumbnails/E.BIG.APPLE.png | width=50)
+![BIGAMMPLEALTTEXT](https://raw.githubusercontent.com/xavrr/test/master//PagesVideotex2/.thumbnails/E.BIG.APPLE.png|width=50)
 
 [E.BIG.APPLE](http://212.47.238.202/minitel/minitel-loader.html?url=https://raw.githubusercontent.com/xavrr/test/master//PagesVideotex2/E.BIG.APPLE)<BR>
 [E.BIG.DEBUT](http://212.47.238.202/minitel/minitel-loader.html?url=https://raw.githubusercontent.com/xavrr/test/master//PagesVideotex2/E.BIG.DEBUT)<BR>
