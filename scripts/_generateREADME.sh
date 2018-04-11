@@ -7,15 +7,15 @@ repoUrl=https://raw.githubusercontent.com/XReyRobert/VideotexPagesRepository/mas
 directory=${PWD##*/}
 
 loaderUrl="http://212.47.238.202/minitel/minitel-loader.html?url="
-if [ -f README.md ]; then
-	rm README.md >> /dev/null
-fi
 
-# if any E. file is present in directory then generate the README.md
 
 urlpath=$repoUrl$rel/.thumbnails/{}.png
 
+# if any E. file is present in directory then generate the README.md
 if ls E.* 1> /dev/null 2>&1; then
+	if [ -f README.md ]; then
+		rm README.md >> /dev/null
+	fi
 mycmd="echo [{}]($loaderUrl"
 imgtag="<img src=\"$repoUrl$rel/.thumbnails/{}.png\" width=\"300\">"
 echo -n

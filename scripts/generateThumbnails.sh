@@ -9,6 +9,6 @@ find . -type d \( -name .git -o -name .thumbnails \) -prune -o -type d -print | 
 done
 
 git add --all
-git commit -m -a 'Autogeration of thumbnails'
+git commit -a -m 'thumbnails creation'
 git push
 
