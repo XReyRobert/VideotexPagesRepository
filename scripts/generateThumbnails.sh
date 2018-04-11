@@ -8,4 +8,7 @@ find . -type d \( -name .git -o -name .thumbnails \) -prune -o -type d -print | 
 	cd $dir
 done
 
+git add --all
+git commit -m -a 'Autogeration of thumbnails'
+git push
 
