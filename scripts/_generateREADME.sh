@@ -25,6 +25,8 @@ echo -n
 if ls E.*\ * 1> /dev/null 2>&1; then
    for f in E.*\ *; do mv "$f" "${f// /_}"; done
 fi
+echo "### Click on image thumbnail to see it in its full **Videotex** glory" >> README.md
+echo "" >> README.md
 
 find . -name 'E.*' -maxdepth 1 | sed 's|^./||' | xargs -I{} echo [$imgtag]\($loaderUrl$repoUrl$rel/{}\) | cat - >> README.md
 fi

@@ -10,9 +10,8 @@ done
 echo
 
 //Make sure to push all images to git before Thumbnail generation 
-git add E.*
-git commit -m "push all images" E.* 
-git commit -m "autogenerate all README.md for videotex pages directories" */README.md 
+git add *
+git commit -m "push all before autogeneration of READMEs and Thumbnails" 
 git push
 
 
