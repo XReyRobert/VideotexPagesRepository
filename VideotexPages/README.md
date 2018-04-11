@@ -1,4 +1,5 @@
-** Click on image thumbnail to see it in its full **Videotex** glory
+## Click on image thumbnail to see it in its full **Videotex** glory
+
 [<img src="https://raw.githubusercontent.com/XReyRobert/VideotexPagesRepository/master//VideotexPages/.thumbnails/E.BIG.APPLE.png" width="300">](http://212.47.238.202/minitel/minitel-loader.html?url=https://raw.githubusercontent.com/XReyRobert/VideotexPagesRepository/master//VideotexPages/E.BIG.APPLE)
 [<img src="https://raw.githubusercontent.com/XReyRobert/VideotexPagesRepository/master//VideotexPages/.thumbnails/E.BIG.DEBUT.png" width="300">](http://212.47.238.202/minitel/minitel-loader.html?url=https://raw.githubusercontent.com/XReyRobert/VideotexPagesRepository/master//VideotexPages/E.BIG.DEBUT)
 [<img src="https://raw.githubusercontent.com/XReyRobert/VideotexPagesRepository/master//VideotexPages/.thumbnails/E.BIG.SCREEN2.png" width="300">](http://212.47.238.202/minitel/minitel-loader.html?url=https://raw.githubusercontent.com/XReyRobert/VideotexPagesRepository/master//VideotexPages/E.BIG.SCREEN2)
