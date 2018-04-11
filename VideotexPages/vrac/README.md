@@ -1,3 +1,5 @@
+## Click on its thumbnail to see the image in it's full **Videotex** glory
+
 [<img src="https://raw.githubusercontent.com/XReyRobert/VideotexPagesRepository/master//VideotexPages/vrac/.thumbnails/E.AMERIQUES.png" width="300">](http://212.47.238.202/minitel/minitel-loader.html?url=https://raw.githubusercontent.com/XReyRobert/VideotexPagesRepository/master//VideotexPages/vrac/E.AMERIQUES)
 [<img src="https://raw.githubusercontent.com/XReyRobert/VideotexPagesRepository/master//VideotexPages/vrac/.thumbnails/E.APPLE___e.png" width="300">](http://212.47.238.202/minitel/minitel-loader.html?url=https://raw.githubusercontent.com/XReyRobert/VideotexPagesRepository/master//VideotexPages/vrac/E.APPLE___e)
 [<img src="https://raw.githubusercontent.com/XReyRobert/VideotexPagesRepository/master//VideotexPages/vrac/.thumbnails/E.AUSTRALIE.png" width="300">](http://212.47.238.202/minitel/minitel-loader.html?url=https://raw.githubusercontent.com/XReyRobert/VideotexPagesRepository/master//VideotexPages/vrac/E.AUSTRALIE)
