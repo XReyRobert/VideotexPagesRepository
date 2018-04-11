@@ -9,7 +9,10 @@ find . -type d \( -name .git -o -name .thumbnails \) -prune -o -type d -print | 
 done
 echo
 
-#git commit -m "autogenerate all README.md for videotex pages directories" */README.md
-#git push
+//Make sure to push all images to git before Thumbnail generation 
+git add E.*
+git commit -m "push all images" E.* 
+git commit -m "autogenerate all README.md for videotex pages directories" */README.md 
+git push
 
 
