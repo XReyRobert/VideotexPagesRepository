@@ -12,7 +12,7 @@ if ls E.* 1> /dev/null 2>&1; then
     mkdir .thumbnails
 fi
 
-loaderUrl="http://212.47.238.202/minitel/minitel-loader.html?url="
+loaderUrl="http://www.lideal.com/miedit/minitel-loader.html?url="
 
 mycmd="echo [{}]($loaderUrl"
 imgtag="<img src=\"$repoUrl$rel/thumbnails/{}.png\" width=\"300\">"
