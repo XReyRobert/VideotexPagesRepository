@@ -6,9 +6,7 @@ rel=${PWD//$1/}
 repoUrl=https://raw.githubusercontent.com/XReyRobert/VideotexPagesRepository/master/
 directory=${PWD##*/}
 
-loaderUrl="http://212.47.238.202/minitel/minitel-loader.html?url="
-
-
+loaderUrl="http://www.lideal.com/miedit/minitel-loader.html?url="
 urlpath=$repoUrl$rel/.thumbnails/{}.png
 
 # if any E. file is present in directory then generate the README.md
