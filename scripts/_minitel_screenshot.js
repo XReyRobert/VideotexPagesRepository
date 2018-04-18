@@ -19,7 +19,7 @@ console.log("Using url "+url);
 (async () => {
   const browser = await puppeteer.launch();
   const page = await browser.newPage();
-  await page.goto('http://212.47.238.202/minitel/minitel-loader.html?url='+url);
+  await page.goto('http://www.lideal.com/miedit/minitel-loader.html?url='+url);
   await page.waitFor(15000);
   await page.screenshot({path: filename});
 

@@ -12,9 +12,6 @@ if ls E.* 1> /dev/null 2>&1; then
     mkdir .thumbnails
 fi
 
-loaderUrl="http://www.lideal.com/miedit/minitel-loader.html?url="
-
-mycmd="echo [{}]($loaderUrl"
 imgtag="<img src=\"$repoUrl$rel/thumbnails/{}.png\" width=\"300\">"
 
 find . -name 'E.*' -maxdepth 1 | sed 's|^./||' | xargs -I{} -P 10 node $1/scripts/_minitel_screenshot.js $repoUrl$rel/{} $PWD/.thumbnails/{}.png
