@@ -20,7 +20,7 @@ console.log("Using url "+url);
   const browser = await puppeteer.launch();
   const page = await browser.newPage();
   await page.goto('http://www.lideal.com/miedit/minitel-loader-fast.html?url='+url);
-  #await page.waitFor(1000);
+  //#await page.waitFor(1000);
   await page.screenshot({path: filename});
 
   await browser.close();
