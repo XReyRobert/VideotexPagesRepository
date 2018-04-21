@@ -1,0 +1,6 @@
+### Click on image thumbnail to see it in its full **Videotex** glory
+
+[<img src="https://raw.githubusercontent.com/XReyRobert/VideotexPagesRepository/master//PagesVideotex/marques/.thumbnails/E.BULL.png" width="300">](http://www.lideal.com/miedit/minitel-loader.html?url=https://raw.githubusercontent.com/XReyRobert/VideotexPagesRepository/master//PagesVideotex/marques/E.BULL)
+[<img src="https://raw.githubusercontent.com/XReyRobert/VideotexPagesRepository/master//PagesVideotex/marques/.thumbnails/E.KODAC.png" width="300">](http://www.lideal.com/miedit/minitel-loader.html?url=https://raw.githubusercontent.com/XReyRobert/VideotexPagesRepository/master//PagesVideotex/marques/E.KODAC)
+[<img src="https://raw.githubusercontent.com/XReyRobert/VideotexPagesRepository/master//PagesVideotex/marques/.thumbnails/E.LACOSTE.png" width="300">](http://www.lideal.com/miedit/minitel-loader.html?url=https://raw.githubusercontent.com/XReyRobert/VideotexPagesRepository/master//PagesVideotex/marques/E.LACOSTE)
+[<img src="https://raw.githubusercontent.com/XReyRobert/VideotexPagesRepository/master//PagesVideotex/marques/.thumbnails/E.MALBORO.png" width="300">](http://www.lideal.com/miedit/minitel-loader.html?url=https://raw.githubusercontent.com/XReyRobert/VideotexPagesRepository/master//PagesVideotex/marques/E.MALBORO)
