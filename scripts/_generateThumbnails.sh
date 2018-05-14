@@ -14,4 +14,4 @@ fi
 
 imgtag="<img src=\"$repoUrl$rel/thumbnails/{}.png\" width=\"300\">"
 
-find . -name 'E.*' -o -name '*.vtx' -o -name '*.VTX' -o -name '*.VDT' -o -name '*.vdt' -maxdepth 1 | sed 's|^./||' | xargs -I{} -P 60 node $1/scripts/_minitel_screenshot.js $repoUrl$rel/{} $PWD/.thumbnails/{}.png
+find . -name 'E.*' -o -name '*.vtx' -o -name '*.VTX' -o -name '*.VDT' -o -name '*.vdt' -maxdepth 1 | sed 's|^./||' | xargs -I{} -P 40 node $1/scripts/_minitel_screenshot.js $repoUrl$rel/{} $PWD/.thumbnails/{}.png
