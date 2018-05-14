@@ -10,7 +10,7 @@ loaderUrl="http://www.lideal.com/miedit/minitel-loader.html?url="
 urlpath=$repoUrl$rel/.thumbnails/{}.png
 
 # if any E. file is present in directory then generate the README.md
-if ls E.* 1> /dev/null 2>&1; then
+if ls E.* *.vtx *.VTX *.VDT *.vdt 1> /dev/null 2>&1; then
 	if [ -f README.md ]; then
 		rm README.md >> /dev/null
 	fi
