@@ -8,9 +8,11 @@ directory=${PWD##*/}
 
 loaderUrl="http://www.lideal.com/miedit/minitel-loader.html?url="
 urlpath=$repoUrl$rel/.thumbnails/{}.png
-
 # if any E. file is present in directory then generate the README.md
-if ls E.* *.vtx *.VTX *.VDT *.vdt 1> /dev/null 2>&1; then
+
+
+if [[ -n $(find . -name  'E.*' -o -name '*.vtx' -o -name '*.VTX' -o -name '*.VDT' -o -name '*.vdt' -maxdepth 1 -mmin -5) ]] 
+then
 	if [ -f README.md ]; then
 		rm README.md >> /dev/null
 	fi

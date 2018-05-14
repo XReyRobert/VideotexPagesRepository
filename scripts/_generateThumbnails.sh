@@ -7,7 +7,8 @@ rel=${PWD//$1/}
 repoUrl=https://raw.githubusercontent.com/XReyRobert/VideotexPagesRepository/master/
 directory=${PWD##*/}
 
-if ls E.* *.VTX *.VDT *.vdt *.vtx 1> /dev/null 2>&1; then
+if [[ -n $(find . -name  'E.*' -o -name '*.vtx' -o -name '*.VTX' -o -name '*.VDT' -o -name '*.vdt' -maxdepth 1 -mmin -5) ]]
+then
     rm -fr .thumbnails >> /dev/null
     mkdir .thumbnails
 fi
