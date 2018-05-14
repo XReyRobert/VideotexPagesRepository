@@ -25,7 +25,18 @@ echo -n
 if ls E.*\ * 1> /dev/null 2>&1; then
    for f in E.*\ *; do mv "$f" "${f// /_}"; done
 fi
-
+if ls *.VTX\ * 1> /dev/null 2>&1; then
+   for f in *.VTX\ *; do mv "$f" "${f// /_}"; done
+fi
+if ls *.vtx\ * 1> /dev/null 2>&1; then
+   for f in *.vtx\ *; do mv "$f" "${f// /_}"; done
+fi
+if ls *.vdt\ * 1> /dev/null 2>&1; then
+   for f in *.dvt\ *; do mv "$f" "${f// /_}"; done
+fi
+if ls *.VDT\ * 1> /dev/null 2>&1; then
+   for f in *.VDT\ *; do mv "$f" "${f// /_}"; done
+fi
 echo "### Click on image thumbnail to see it in its full **Videotex** glory" >> README.md
 echo "" >> README.md
 find . -name 'E.*' -o -name '*.vtx' -o -name '*.VTX' -o -name '*.VDT' -o -name '*.vdt' -maxdepth 1 | sed 's|^./||' | xargs -I{} echo [$imgtag]\($loaderUrl$repoUrl$rel/{}\) | cat - >> README.md
