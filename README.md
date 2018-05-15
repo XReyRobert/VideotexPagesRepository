@@ -10,8 +10,8 @@ L'histoire du minitel étant ce qu'elle est, les pages Minitel contrevenant aux 
 
 Si vous possédez des pages Minitel merci des les ajouter via github ou de les envoyer à l'adresse ci-dessous.
 
-### Envoyez vos pages videotex à <img src="https://github.com/XReyRobert/VideotexPagesRepository/blob/master/ressources/email.png?raw=true">
-## Consultez les  [PagesVideotex](https://github.com/XReyRobert/VideotexPagesRepository/tree/master/PagesVideotex)
+## Envoyez vos pages videotex à <img src="https://github.com/XReyRobert/VideotexPagesRepository/blob/master/ressources/email.png?raw=true">
+## [Consultez les PagesVideotex](https://github.com/XReyRobert/VideotexPagesRepository/tree/master/PagesVideotex)
 
 
 
