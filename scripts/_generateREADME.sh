@@ -32,7 +32,6 @@ if ls *\ *.vtx 1> /dev/null 2>&1; then
    for f in *\ *.vtx\ *; do mv "$f" "${f// /_}"; done
 fi
 if ls *\ *.vdt 1> /dev/null 2>&1; then
-echo yes
    for f in *\ *.vdt\ *; do mv "$f" "${f// /_}"; done
 fi
 if ls *\* *.VDT\ * 1> /dev/null 2>&1; then
