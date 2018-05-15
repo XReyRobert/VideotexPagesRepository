@@ -15,6 +15,4 @@ Si vous possédez des pages Minitel merci des les ajouter via github ou de les e
 
 
 
-*** Emulateur minitel par Frédéric BISSON: https://github.com/Zigazou/miedit
-
-
+Emulateur minitel par Frédéric BISSON: https://github.com/Zigazou/miedit
