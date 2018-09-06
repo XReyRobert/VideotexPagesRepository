@@ -10,12 +10,6 @@ L'histoire du minitel étant ce qu'elle est, certaines pages seront stockées da
 
 Si vous possédez des pages Minitel merci des les ajouter via github ou de les envoyer à l'adresse ci-dessous.
 
-## 
-
-## [Consulter les PagesVideotex](https://github.com/XReyRobert/VideotexPagesRepository/tree/master/PagesVideotex)
-## Envoyez vos pages videotex à <img src="https://github.com/XReyRobert/VideotexPagesRepository/blob/master/ressources/email.png?raw=true">
-
-
 ## Safeguarding French digital heritage - Minitel / Videotex
 
 This repository / GitHub repository is intended to host Minitel/Videotex pages to ensure their preservation.
@@ -24,7 +18,9 @@ Thumbnails of these pages are generated regularly. The pages are also accessible
 This site is not intended to select/filter pages but only to ensure archival and perenniality.
 The story of the Minitel being what it is, some pages will be stored in zip archives so that their content is not directly visible.
 
+## 
 
-
+## [Consulter les PagesVideotex](https://github.com/XReyRobert/VideotexPagesRepository/tree/master/PagesVideotex)
+## Envoyez vos pages videotex à <img src="https://github.com/XReyRobert/VideotexPagesRepository/blob/master/ressources/email.png?raw=true">
 
 Emulateur minitel par Frédéric BISSON: https://github.com/Zigazou/miedit
