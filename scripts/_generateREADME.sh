@@ -17,7 +17,7 @@ then
 		rm README.md >> /dev/null
 	fi
 mycmd="echo [{}]($loaderUrl"
-imgtag="<img src=\"$repoUrl$rel/.thumbnails/{}.png\" width=\"300\">"
+imgtag="<img src=\"$repoUrl$rel/.thumbnails/{}.gif\" width=\"300\">"
 echo -n
 
 #replace all spaces in filenames by _  to avoid issue in generated htm 
