@@ -20,7 +20,7 @@ The story of the Minitel being what it is, some pages will be stored in zip arch
 
 ## 
 
-## [Consulter les PagesVideotex](https://github.com/XReyRobert/VideotexPagesRepository/tree/master/PagesVideotex)
+## [Consulter les PagesVideotex](https://github.com/XReyRobert/VideotexPagesRepository/tree/master/PagesVideotex) (Naviguez dans les sous-répértoires pour afficher les miniatures)
 ## Envoyez vos pages videotex à <img src="https://github.com/XReyRobert/VideotexPagesRepository/blob/master/ressources/email.png?raw=true">
 
 Emulateur minitel par Frédéric BISSON: https://github.com/Zigazou/miedit
